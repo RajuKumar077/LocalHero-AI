@@ -1,0 +1,154 @@
+GOVERNMENT SCHEMES FOR URBAN CIVIC IMPROVEMENT — INDIA
+=======================================================
+
+OVERVIEW
+---------
+The Indian government runs several flagship schemes aimed at improving urban infrastructure, sanitation, water supply, and the overall quality of life in cities and towns. Citizens can benefit from and contribute to these schemes.
+
+1. SWACHH BHARAT MISSION — URBAN (SBM-U)
+-----------------------------------------
+Launched: 2014 (Phase 1); 2021 (Phase 2)
+Objective: Making India open defecation free (ODF) and achieving clean cities
+
+Key Initiatives:
+- Construction of individual household toilets (IHHL)
+- Community and Public Toilets (CPT)
+- Solid Waste Management (SWM)
+- Liquid Waste Management (sewage treatment)
+- Behavioural change campaigns
+- ODF++ and Water+ city certification
+
+How Citizens Can Participate:
+- Download Swachh City App and rate cleanliness
+- Report dirty spots / open garbage through the app
+- Participate in shramdaan (voluntary cleaning drives)
+- Apply for household toilet subsidy if you don't have one
+
+Helpline: 1969
+Website: swachhbharaturban.gov.in
+
+---
+
+2. AMRUT — ATAL MISSION FOR REJUVENATION AND URBAN TRANSFORMATION
+-------------------------------------------------------------------
+Launched: 2015 (Phase 1); 2021 (AMRUT 2.0)
+Objective: Water supply and sewerage infrastructure in cities with population above 1 lakh
+
+Key Focus Areas:
+- Universal water supply coverage (piped water to all households)
+- Underground sewerage coverage
+- Storm water drainage
+- Urban mobility & green spaces
+- Smart metering for water
+
+Beneficiaries: 500 cities in Phase 1; expanded in Phase 2
+
+How Citizens Can Benefit:
+- Apply for water and sewage connections through the city corporation
+- Track project progress on city corporation dashboards
+
+Website: amrut.gov.in
+
+---
+
+3. SMART CITIES MISSION
+------------------------
+Launched: 2015
+Objective: Develop 100 smart cities with sustainable urban development
+
+Key Components:
+- ICT-enabled governance (e-governance, smart surveillance)
+- Integrated Command and Control Centres (ICCC)
+- Smart traffic management
+- Smart streetlights with sensors
+- Wi-Fi in public spaces
+- E-waste management
+- Smart water meters and distribution
+
+Current Status: 100 cities selected; most have functional ICCCs
+Complaint Mechanism: Through city-specific smart city apps and portals
+
+Website: smartcities.gov.in
+
+---
+
+4. PRADHAN MANTRI AWAS YOJANA — URBAN (PMAY-U)
+-----------------------------------------------
+Launched: 2015
+Objective: Housing for All — affordable housing for urban poor
+
+Eligibility:
+- EWS (Economically Weaker Section): Annual income up to ₹3 lakh
+- LIG (Low Income Group): ₹3–6 lakh
+- MIG I: ₹6–12 lakh
+- MIG II: ₹12–18 lakh
+
+Benefits:
+- Subsidy on home loan interest (CLSS component)
+- Ready houses for urban slum dwellers
+- Affordable housing projects under PPP mode
+
+Apply at: pmaymis.gov.in / city corporation offices
+Helpline: 1800-11-6163
+
+---
+
+5. PM SVANidhi — STREET VENDOR ATMANIRBHAR NIDHI
+-------------------------------------------------
+Launched: 2020
+Objective: Micro-credit and formalisation for street vendors
+
+Benefits:
+- Working capital loan of ₹10,000 (initial), ₹20,000, ₹50,000
+- Digital transaction incentive
+- Social security benefits
+- Formalisation through vendor certificate
+
+Apply at: pmsvanidhi.mohua.gov.in
+Helpline: 1800-11-0001
+
+---
+
+6. DEEN DAYAL ANTYODAYA YOJANA — NATIONAL URBAN LIVELIHOODS MISSION (DAY-NULM)
+--------------------------------------------------------------------------------
+Objective: Reducing poverty and vulnerability of urban poor households
+
+Components:
+- Social mobilisation through Self Help Groups (SHGs)
+- Skill training and placement
+- Self-employment through micro-enterprise support
+- Shelter for urban homeless
+
+---
+
+7. NATIONAL URBAN HEALTH MISSION (NUHM)
+-----------------------------------------
+Objective: Health care for urban poor
+
+Services:
+- Urban Primary Health Centres (UPHC)
+- Mobile Medical Units
+- Free medicines at government facilities
+- Janani Suraksha Yojana (safe motherhood)
+
+---
+
+8. RIGHT TO SERVICE ACT
+------------------------
+Available in states: Most major Indian states have enacted this
+Key Provisions:
+- List of government services must be delivered within stipulated time
+- Penalty on officials who delay services
+- Appellate mechanism for citizens
+
+Services Covered: Water connection, birth/death certificates, trade licences, building permits, sanitation complaints, etc.
+
+---
+
+CITIZEN PARTICIPATION PLATFORMS
+---------------------------------
+MyGov (mygov.in): Participate in governance, polls, and idea submissions
+PM Grievance Portal (pgportal.gov.in): Escalate unresolved civic complaints
+Jansamarth (jansamarth.in): Portal for government scheme applications
+DigiLocker (digilocker.gov.in): Digital document storage
+UMANG App: Single app for 1,200+ government services

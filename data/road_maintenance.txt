@@ -1,0 +1,82 @@
+ROAD MAINTENANCE DEPARTMENT — SERVICES, CONTACTS & COMPLAINT PROCEDURES
+========================================================================
+
+DEPARTMENT OVERVIEW
+--------------------
+Road maintenance in Indian cities is managed by multiple agencies depending on the type of road:
+- National Highways: National Highways Authority of India (NHAI)
+- State Highways: Public Works Department (PWD) of the state
+- City Roads & Arterial Roads: Municipal Corporation (Roads & Bridges Department)
+- Internal Colony Roads: Resident Welfare Associations + Corporation
+- Village Roads: Gram Panchayat / Rural Development Department
+
+SERVICES PROVIDED
+-----------------
+1. Pothole repair and road resurfacing
+2. New road construction
+3. Road widening and divider construction
+4. Footpath / pavement construction and repair
+5. Traffic signal installation and maintenance
+6. Road marking and signage
+7. Flyover and underpass maintenance
+8. Stormwater drain (alongside roads) maintenance
+9. Street lighting installation (in coordination with Electricity Dept)
+10. Removal of encroachments on roads
+
+COMMON ROAD ISSUES
+------------------
+1. Potholes on road — MEDIUM to HIGH (depending on size and traffic)
+2. Large crater/sinkhole — CRITICAL (immediate safety risk)
+3. Road cave-in after rain — CRITICAL
+4. Damaged footpath / broken pavement — MEDIUM
+5. No street lighting on road — HIGH (safety at night)
+6. Missing manhole cover — CRITICAL (risk of accident/fatality)
+7. Encroachment on footpath/road — HIGH
+8. Road waterlogging after rain — HIGH
+9. Damaged road divider — MEDIUM
+10. Illegally broken road for utility work (not restored) — HIGH
+
+HOW TO REPORT ROAD ISSUES
+---------------------------
+Phone:
+- NHAI Helpline (National Highways): 1033
+- PWD State Roads: Contact your state PWD helpline
+- Municipal Corporation Roads: Check city corporation website
+- National Road Safety Helpline: 1033
+
+Online:
+- Pothole reporting: Many cities have dedicated apps
+  * Mumbai: pothole.mcgm.gov.in
+  * Delhi: mcdonline.nic.in
+  * Bengaluru: BBMP Sahamati App / bbmp.gov.in
+- PM Grievance Portal: pgportal.gov.in
+- MyGov: mygov.in
+
+In Person:
+- Ward Engineer's Office of your Municipal Corporation
+- Nearest PWD Sub-Division Office (for state highways)
+
+RESOLUTION TIMELINES
+---------------------
+- Pothole (small, < 1 ft): Repair within 7 days
+- Pothole (large): Repair within 3 days
+- Missing manhole cover: Emergency replacement within 24 hours (critical safety risk)
+- Road cave-in / sinkhole: Emergency barricading within 2 hours; repair within 24 hours
+- Footpath repair: Within 15 days
+- Street light: Within 3–5 working days
+
+REPORTING TIPS FOR CITIZENS
+-----------------------------
+When reporting a road issue:
+1. Note the exact location: nearest landmark, street name, ward number
+2. Take a clear photograph of the issue
+3. Measure or estimate the size (for potholes)
+4. Note if there have been recent rain events (helps diagnosis)
+5. Keep your CRN (Complaint Registration Number) safe for follow-up
+
+IMPORTANT CONTACTS
+------------------
+NHAI Helpline: 1033
+PWD (varies by state — search "[state name] PWD helpline")
+National Road Safety Authority: 1033
+Ministry of Road Transport: morth.nic.in
